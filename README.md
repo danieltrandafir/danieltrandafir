@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieltrandafir
 - 👀 I’m interested in coding
-- 🌱 I’m currently doing a Front End Development Bootcamp with Purple Beard as well as self-learning web development on Codecademy.com
+- 🌱 I have completed a Front End Development Bootcamp with Purple Beard as well as self-learning web development on Codecademy.com
 - 💞️ I’m looking to collaborate on any projects if somebody is interested.
 - 📫 Reach me on Discord: Daniel T.#7582 or by e-mail @ danieltrandafir@live.co.uk
 
